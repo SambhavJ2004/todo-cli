@@ -1,20 +1,23 @@
-📝 Todo CLI App
-A simple, file-based Command Line Todo List application built with Node.js and the Commander.js framework.
+# 📝 Todo CLI App
 
-📦 Features
-✅ Add todos from the terminal
+A simple, file-based Command Line Todo List application built with **Node.js** and the **Commander.js** framework.
 
-❌ Delete todos by index
+---
 
-📄 View your current todo list
+## 📦 Features
 
-💾 Persistent storage using files.json
+- ✅ Add todos from the terminal  
+- ❌ Delete todos by index  
+- 📄 View your current todo list  
+- 💾 Persistent storage using `files.json`
 
-🚀 Getting Started
-1. Clone the repository
-bash
-Copy
-Edit
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+
+```bash
 git clone https://github.com/SambhavJ2004/todo-cli.git
 cd todo-cli
 2. Install dependencies
@@ -54,7 +57,7 @@ todo-cli/
 ├── index.js            # Main CLI logic
 ├── package.json        # Project metadata & dependencies
 └── README.md           # You are here!
-✨ Future Improvements (Optional Ideas)
+✨ Future Improvements
  Add list command
 
  Mark todos as done/undone
@@ -67,4 +70,3 @@ todo-cli/
 
 🙌 Author
 Sambhav Jain
-GitHub Profile
