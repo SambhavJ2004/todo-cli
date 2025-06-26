@@ -22,4 +22,5 @@ A simple, file-based Command Line Todo List application built with **Node.js** a
 ---
 
 #🗃️ Data Storage
-Todos are stored in a files.json file in the project directory. It uses JSON format to store an array of todo objects.
+-Todos are stored in a files.json file in the project directory. 
+-It uses JSON format to store an array of todo objects.
